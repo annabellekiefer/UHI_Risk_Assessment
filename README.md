@@ -118,10 +118,10 @@ If you use this tool, please cite:
 
 ## References
 
-- GIZ. (2014). *The Vulnerability Sourcebook: Concept and guidelines for
+- GIZ (2014). *The Vulnerability Sourcebook: Concept and guidelines for
   standardised vulnerability assessments.*
-- GIZ and EURAC. (2017). *Risk Supplement to the Vulnerability Sourcebook.*
-- IPCC. (2014). *Climate Change 2014: Synthesis Report.* Intergovernmental
+- GIZ and EURAC (2017). *Risk Supplement to the Vulnerability Sourcebook.*
+- IPCC (2014). *Climate Change 2014: Synthesis Report.* Intergovernmental
   Panel on Climate Change.
 - Voelkel, J., Hellman, D., Sakuma, R., & Shandas, V. (2018). Assessing
   Vulnerability to Urban Heat: A Study of Disproportionate Heat Exposure and
